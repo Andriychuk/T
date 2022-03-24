@@ -1,2 +1,3 @@
 initial file
 some changes
+some more changes for commit B
