@@ -3,3 +3,4 @@ some changes
 some more changes for commit B
 back to master and fix some shit
 fix one more shit
+hotfix added
