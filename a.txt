@@ -1,12 +1,9 @@
 initial file
 some changes
 some more changes for commit B
-<<<<<<< HEAD
 back to master and fix some shit
 fix one more shit
 hotfix added
-=======
 feature F1 develop started
 feature F1 blah-blah-blah
 feature F1 blah-blah-blah
->>>>>>> feature/F1
