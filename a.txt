@@ -8,3 +8,4 @@ feature F1 develop started
 feature F1 blah-blah-blah
 feature F1 blah-blah-blah
 feature F2-2 blah-blah-blah
+feature F2-2 blah-blah-blah
